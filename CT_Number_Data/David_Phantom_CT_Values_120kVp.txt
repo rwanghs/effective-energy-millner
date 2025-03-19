@@ -1,0 +1,8 @@
+Material:	CT Number:
+Adipose		-88.953
+Blood		32.695
+Omnipaque350	2463.388
+Cortical Bone	1286.274
+Air		-972.379
+MendoncaOm300	3770.567
+OmnipaqueBlood	325.637

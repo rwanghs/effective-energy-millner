@@ -1,0 +1,6 @@
+Material:	CT Number:
+Water		-0.561			
+Air		-996.656
+PMMA		117.833
+Polyethylene	-111.076
+Hydroxyapatite	1197.092
